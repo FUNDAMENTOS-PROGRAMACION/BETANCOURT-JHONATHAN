@@ -14,10 +14,29 @@ public class JavaApplication1 {
     /**
      * @param args the command line arguments
      */
+    // enteros -32768 a 32768
+    int num_Entero = 0;
     
+    double numDouble = 0.0;
+    
+    char nombre = 'A' ;
+    
+    boolean valor1 = true ; 
+    valor1 = true ;
+    
+    
+ 
+            
+    String cadena = "hola mundo";
+            
     /* ala vergo perro
-    // bro ya
+    // IVE BENN FUCKIN HOSES PUPPIN FELLING LIKE A ROCK STAR
+    /*
+    PERRO COMENTARIO CON ASTERISCO.
+    
     */
+    // bro ya
+    
     public static void main(String[] args) {
         // aloo
     }
